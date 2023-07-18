@@ -28,6 +28,7 @@ struct ContentView: View {
             
             VStack {
                 Spacer()
+                // Title of the app
                 Text("Guess the Flag")
                     .font(.largeTitle.weight(.bold))
                     .foregroundColor(.white)
